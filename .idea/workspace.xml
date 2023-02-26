@@ -5,7 +5,6 @@
       <change afterPath="$PROJECT_DIR$/src/HotOrCold.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LoopsNeed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PositiveIntegerCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StudentGrades.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/SumOfDigits.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/WhileLoopExample.java" afterDir="false" />
@@ -42,7 +41,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StudentGrades">
+  <component name="RunManager" selected="Application.SumOfDigits">
     <configuration name="CheckPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckPrimeNumber" />
       <module name="WhileLoop" />
@@ -71,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WhileLoopExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="WhileLoopExample" />
+    <configuration name="SumOfDigits" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumOfDigits" />
       <module name="WhileLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +79,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.StudentGrades" />
         <item itemvalue="Application.CheckPrimeNumber" />
         <item itemvalue="Application.HotOrCold" />
         <item itemvalue="Application.PositiveIntegerCount" />
-        <item itemvalue="Application.WhileLoopExample" />
       </list>
     </recent_temporary>
   </component>
@@ -96,7 +95,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677159004657</updated>
-      <workItem from="1677159006562" duration="16306000" />
+      <workItem from="1677159006562" duration="18767000" />
     </task>
     <task id="LOCAL-00001" summary="Program created&#10;notes added">
       <created>1677367785780</created>
@@ -105,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677367785780</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Line 20 redundant removed">
+      <created>1677372081539</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1677372081539</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Program created&#10;notes added" />
     <MESSAGE value="Notes updated&#10;Program created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notes updated&#10;Program created" />
+    <MESSAGE value="Line 20 redundant removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Line 20 redundant removed" />
   </component>
 </project>
