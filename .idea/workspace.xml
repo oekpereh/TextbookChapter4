@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f60c9b44-25a4-4f68-9931-067f7d8cf065" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/StringAndCharacterValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pattern.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,16 +35,16 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringAndCharacterValue">
-    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
+  <component name="RunManager" selected="Application.Pattern">
+    <configuration name="IntegerValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IntegerValue" />
       <module name="WhileLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntegerValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IntegerValue" />
+    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pattern" />
       <module name="WhileLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +73,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Pattern" />
         <item itemvalue="Application.StringAndCharacterValue" />
         <item itemvalue="Application.StringReverse" />
         <item itemvalue="Application.StringValues" />
         <item itemvalue="Application.IntegerValue" />
-        <item itemvalue="Application.FibonacciSeries" />
       </list>
     </recent_temporary>
   </component>
@@ -90,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677159004657</updated>
-      <workItem from="1677159006562" duration="34509000" />
+      <workItem from="1677159006562" duration="34983000" />
     </task>
     <task id="LOCAL-00001" summary="Program created&#10;notes added">
       <created>1677367785780</created>
@@ -176,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678770698748</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Notes updated">
+      <created>1678772333958</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1678772333958</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
