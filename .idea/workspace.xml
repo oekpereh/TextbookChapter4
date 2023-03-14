@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f60c9b44-25a4-4f68-9931-067f7d8cf065" name="Changes" comment="Notes updated&#10;Program created">
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSeries.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/HotOrCold.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LoopsNeed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PositiveIntegerCount.java" afterDir="false" />
@@ -39,7 +40,7 @@
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.HighestAndLowestGrades">
+  <component name="RunManager" selected="Application.FibonacciSeries">
     <configuration name="CheckPrimeNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CheckPrimeNumber" />
       <module name="WhileLoop" />
@@ -47,15 +48,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HighestAndLowestGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HighestAndLowestGrades" />
+    <configuration name="FibonacciSeries" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FibonacciSeries" />
       <module name="WhileLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HotOrCold" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HotOrCold" />
+    <configuration name="HighestAndLowestGrades" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestAndLowestGrades" />
       <module name="WhileLoop" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FibonacciSeries" />
         <item itemvalue="Application.HighestAndLowestGrades" />
         <item itemvalue="Application.SumOfDigits" />
         <item itemvalue="Application.StudentGrades" />
         <item itemvalue="Application.CheckPrimeNumber" />
-        <item itemvalue="Application.HotOrCold" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +94,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677159004657</updated>
-      <workItem from="1677159006562" duration="29471000" />
+      <workItem from="1677159006562" duration="29783000" />
     </task>
     <task id="LOCAL-00001" summary="Program created&#10;notes added">
       <created>1677367785780</created>
@@ -123,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678766063508</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Notes updated">
+      <created>1678766786781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678766786781</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +141,7 @@
     <MESSAGE value="Program created&#10;notes added" />
     <MESSAGE value="Line 20 redundant removed" />
     <MESSAGE value="Notes updated&#10;Program created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Notes updated&#10;Program created" />
+    <MESSAGE value="Notes updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Notes updated" />
   </component>
 </project>
