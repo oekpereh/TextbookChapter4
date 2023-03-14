@@ -5,7 +5,7 @@
  * Course: ITEC 2140 Spring 2023
  * Written: March 13, 2023
  * This program will prompt the user for students grades and displays the highest and lowest grades in the class.
- * In this program, I will declare variables: Number, N, and Sum.
+ * In this program, I will declare the variables: Grade, LowGrade, and HighGrade.
  */
 
 import java.util.Scanner;

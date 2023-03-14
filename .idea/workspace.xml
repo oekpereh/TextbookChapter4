@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f60c9b44-25a4-4f68-9931-067f7d8cf065" name="Changes" comment="Notes updated&#10;Program created">
-      <change afterPath="$PROJECT_DIR$/src/HighestAndLowestGrades.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/HotOrCold.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/LoopsNeed.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/PositiveIntegerCount.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/WhileLoop.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/WhileLoopExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +93,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677159004657</updated>
-      <workItem from="1677159006562" duration="28930000" />
+      <workItem from="1677159006562" duration="29471000" />
     </task>
     <task id="LOCAL-00001" summary="Program created&#10;notes added">
       <created>1677367785780</created>
@@ -118,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677375628125</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Notes updated&#10;Program created">
+      <created>1678766063508</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678766063508</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
