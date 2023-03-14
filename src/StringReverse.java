@@ -4,8 +4,7 @@
  * version 1.0
  * Course: ITEC 2140 Spring 2023
  * Written: March 14, 2023
- * This program prompts the user for two string values.
- * The program should then display if string 1 is greater in length than string 2.
+ * This program will accept a String value from the user and displays the reverse of that value.
  * In this program, I will declare variables: String, NewString
  */
 
